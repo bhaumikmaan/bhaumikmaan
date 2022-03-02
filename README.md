@@ -58,6 +58,6 @@ I’m a Sophomore in Information Technology.<br>
 
 [![Bhaumik's github activity graph](https://activity-graph.herokuapp.com/graph?username=bhaumikmaan&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaumikmaan&theme=react-dark&show_icons=true&locale=en&layout=compact" alt="bhaumikmaan" />|<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhaumikmaan&theme=react-dark&show_icons=true&locale=en" alt="bhaumikmaan" />|
+|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaumikmaan&langs_count=8&theme=react-dark&show_icons=true&locale=en&layout=compact" alt="bhaumikmaan" />|<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhaumikmaan&theme=react-dark&show_icons=true&locale=en" alt="bhaumikmaan" />|
 |---|---|
 ___
