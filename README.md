@@ -6,9 +6,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%235EF72C&size=26&lines=Hey!+This+is+Bhaumik+Maan;I'm+a+Competitive+Programmer;An+Open+Source+Enthusiast)](https://git.io/typing-svg)
 </div> 
 <p align="center"><em>
-I’m a final year student in Information Technology.<br>
+Software Engineer. Undergrad in IT<br>
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="35px"height="25px"> I enjoy learning new things. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="35px"height="25px"> <br> 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"height="30px"> Looking to work on Projects <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"height="30px">
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"height="30px"> Always on the lookout for interesting ideas <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"height="30px">
 </em></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bhaumikmaan&label=Profile%20Views&theme=react-dark&style=plastic" alt="bhaumikmaan" /> </p>
@@ -35,13 +35,14 @@ I’m a final year student in Information Technology.<br>
 
 ![Bhaumik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bhaumikmaan&bg_color=000000&color=8c8aff&line=5257ff&point=38e8ff&area=true&hide_border=true)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaumikmaan&show_icons=true&locale=en&layout=compact" alt="bhaumikmaan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaumikmaan&show_icons=true&locale=en&layout=compact&hide_progress=true" alt="bhaumikmaan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhaumikmaan&show_icons=true&locale=en" alt="bhaumikmaan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhaumikmaan&show_icons=true&locale=en&rank_icon=github" alt="bhaumikmaan" /></p>
 
 <h2 align="center"> <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/heisencat.png" width="30px"height="30px"/> Blog Posts <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/heisencat.png" width="30px"height="30px"/> </h2>
 <!-- <p align="center"> -->
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bhaumikmaan/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bhaumikmaan/0" alt="Latest Articles"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bhaumikmaan/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bhaumikmaan/1" alt="Latest Articles"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bhaumikmaan/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bhaumikmaan/2" alt="Latest Articles"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bhaumikmaan/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bhaumikmaan/3" alt="Latest Articles"> 
 <!-- </p> -->
